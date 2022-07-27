@@ -1,0 +1,12 @@
+C:\Users\Prog2\source\repos\DYW\bin\Debug\DYW.exe.config
+C:\Users\Prog2\source\repos\DYW\bin\Debug\DYW.exe
+C:\Users\Prog2\source\repos\DYW\bin\Debug\DYW.pdb
+C:\Users\Prog2\source\repos\DYW\bin\Debug\DYW.xml
+C:\Users\Prog2\source\repos\DYW\obj\Debug\DYW.vbproj.AssemblyReference.cache
+C:\Users\Prog2\source\repos\DYW\obj\Debug\DYW.Form1.resources
+C:\Users\Prog2\source\repos\DYW\obj\Debug\DYW.Resources.resources
+C:\Users\Prog2\source\repos\DYW\obj\Debug\DYW.vbproj.GenerateResource.cache
+C:\Users\Prog2\source\repos\DYW\obj\Debug\DYW.vbproj.CoreCompileInputs.cache
+C:\Users\Prog2\source\repos\DYW\obj\Debug\DYW.exe
+C:\Users\Prog2\source\repos\DYW\obj\Debug\DYW.xml
+C:\Users\Prog2\source\repos\DYW\obj\Debug\DYW.pdb
